@@ -50,3 +50,6 @@ img{
     width: 100%;
     height: 100%;
 }
+.box hover{
+    background-color: #1cc79f;
+}
