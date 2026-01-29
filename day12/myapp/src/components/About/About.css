@@ -1,0 +1,17 @@
+.about-content {
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+.features {
+    margin-top: 30px;
+}
+
+.features ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.features li {
+    margin-bottom: 10px;
+}
